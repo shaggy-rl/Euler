@@ -14,4 +14,4 @@ num_right = 20
 
 # Solution
 
-puts factorial(n) / (factorial(r) * factorial(n - r))
+puts factorial(num_right_down) / (factorial(num_right) * factorial(num_right_down - num_right))
