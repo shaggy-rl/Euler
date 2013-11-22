@@ -20,4 +20,3 @@ def LargestCycle(limit):
     print maxNumber
 
 LargestCycle(1000)
-#ReciprocalCycle(601)
